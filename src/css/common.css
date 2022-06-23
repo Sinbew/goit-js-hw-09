@@ -16,3 +16,37 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer {
+  display: flex;
+  gap: 20px;
+  font-size: 34px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  font-size: 40px;
+  font-weight: 400;
+}
+
+/* button {
+  border: none;
+  background-color: #5b81d3;
+  color: #fafafa;
+  font-size: 17px;
+  font-weight: 700;
+  border-radius: 2px;
+  font-family: helvetica, sans-serif;
+
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4a659e;
+} */
